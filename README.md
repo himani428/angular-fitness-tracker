@@ -11,7 +11,7 @@
   - [Steps to Implement redux](#steps-to-implement-redux)
 
 ## Deployment
-View deployment at https://gagandeep39.github.io/angular-fitness-tracker/
+View deployment at https://github.com/himani428/angular-fitness-tracker/
 
 ## Instalaltion 
 `ng add @angular/material`
